@@ -1,0 +1,14 @@
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB.deps.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB.runtimeconfig.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB.runtimeconfig.dev.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB.csproj.CoreCompileInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB.AssemblyInfoInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB.AssemblyInfo.cs
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB.csprojAssemblyReference.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.Messages.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.Messages.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB.csproj.CopyComplete
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.SubscriberB.pdb

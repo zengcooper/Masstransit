@@ -1,0 +1,14 @@
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv1.Sender\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv1.Sender.deps.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv1.Sender\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv1.Sender.runtimeconfig.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv1.Sender\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv1.Sender.runtimeconfig.dev.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv1.Sender\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv1.Sender.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv1.Sender\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv1.Sender.csproj.CoreCompileInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv1.Sender\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv1.Sender.AssemblyInfoInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv1.Sender\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv1.Sender.AssemblyInfo.cs
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv1.Sender\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv1.Sender.csprojAssemblyReference.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv1.Sender\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv1.Sender.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv1.Sender\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv1.Receiver.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv1.Sender\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv1.Receiver.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv1.Sender\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv1.Sender.csproj.CopyComplete
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv1.Sender\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv1.Sender.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv1.Sender\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv1.Sender.pdb

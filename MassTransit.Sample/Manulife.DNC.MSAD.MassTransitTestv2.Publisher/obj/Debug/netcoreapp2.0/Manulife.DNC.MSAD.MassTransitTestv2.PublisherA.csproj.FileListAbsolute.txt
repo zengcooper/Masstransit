@@ -1,0 +1,8 @@
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.PublisherA\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.PublisherA.deps.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.PublisherA\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.PublisherA.runtimeconfig.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.PublisherA\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.PublisherA.runtimeconfig.dev.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.PublisherA\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.PublisherA.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.PublisherA\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.PublisherA.csprojAssemblyReference.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.PublisherA\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.PublisherA.csproj.CoreCompileInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.PublisherA\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.PublisherA.AssemblyInfoInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv2.PublisherA\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv2.PublisherA.AssemblyInfo.cs

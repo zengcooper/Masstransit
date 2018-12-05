@@ -1,0 +1,14 @@
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Receiver\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Receiver.deps.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Receiver\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Receiver.runtimeconfig.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Receiver\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Receiver.runtimeconfig.dev.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Receiver\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Receiver.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Receiver\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Receiver.csproj.CoreCompileInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Receiver\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Receiver.AssemblyInfoInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Receiver\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Receiver.AssemblyInfo.cs
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Receiver\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Receiver.csprojAssemblyReference.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Receiver\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Receiver.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Receiver\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Messages.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Receiver\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Messages.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Receiver\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Receiver.csproj.CopyComplete
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Receiver\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Receiver.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Receiver\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Receiver.pdb

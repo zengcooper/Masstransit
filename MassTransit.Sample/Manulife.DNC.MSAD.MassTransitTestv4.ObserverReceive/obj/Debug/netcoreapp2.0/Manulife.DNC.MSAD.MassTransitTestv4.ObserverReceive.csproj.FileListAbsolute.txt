@@ -1,0 +1,14 @@
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive.deps.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive.runtimeconfig.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive.runtimeconfig.dev.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive.csprojAssemblyReference.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive.csproj.CoreCompileInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive.AssemblyInfoInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive.AssemblyInfo.cs
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv4.Messages.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv4.Messages.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive.csproj.CopyComplete
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitTestv4.ObserverReceive.pdb

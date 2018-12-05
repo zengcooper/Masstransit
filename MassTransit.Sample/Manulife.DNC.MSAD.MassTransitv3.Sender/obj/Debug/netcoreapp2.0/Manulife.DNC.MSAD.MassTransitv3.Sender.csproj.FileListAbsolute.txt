@@ -1,0 +1,14 @@
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Sender\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Sender.deps.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Sender\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Sender.runtimeconfig.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Sender\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Sender.runtimeconfig.dev.json
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Sender\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Sender.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Sender\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Sender.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Sender\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Messages.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Sender\bin\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Messages.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Sender\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Sender.csproj.CoreCompileInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Sender\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Sender.AssemblyInfoInputs.cache
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Sender\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Sender.AssemblyInfo.cs
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Sender\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Sender.csproj.CopyComplete
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Sender\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Sender.dll
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Sender\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Sender.pdb
+E:\Projects\DNC\Manulife.DNC.MSAD\Manulife.DNC.MSAD.MassTransitv3.Sender\obj\Debug\netcoreapp2.0\Manulife.DNC.MSAD.MassTransitv3.Sender.csprojAssemblyReference.cache
